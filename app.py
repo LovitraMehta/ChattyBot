@@ -25,7 +25,7 @@ os.makedirs(STATIC_FOLDER, exist_ok=True)
 whisper_model = whisper.load_model("base")
 
 # API Config
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your-api-key"
 
 # Language configuration (English and Hindi only)
 LANGUAGE_MAP = {
