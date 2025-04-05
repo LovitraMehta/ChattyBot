@@ -1,0 +1,9 @@
+Flask
+whisper
+gTTS
+requests
+ffmpeg-python
+APScheduler
+python-dotenv
+torch
+torchaudio
